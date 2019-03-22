@@ -3,8 +3,7 @@ Java program that opens up a Blockchain login page and automatically logs in.
 Uses Selenium WebDriver and Maven.
 
 ### Prerequisites
-Chrome version 73
-Java SDK
+Chrome version 73, Java SDK 8
 
 ### Installing
 1. Unzip the compressed file and save it to your desktop
